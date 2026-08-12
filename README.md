@@ -47,8 +47,7 @@ bookStoreApp/
 │   ├── model/
 │   ├── routes/
 │   ├── index.js
-│   ├── package.json
-│   └── .env
+│   └── package.json
 │
 ├── Frontend/
 │   ├── src/
