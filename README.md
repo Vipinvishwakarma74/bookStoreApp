@@ -1,8 +1,8 @@
-📚 BookStore App
+### 📚 BookStore App
 
 A full-stack "Book Store web application" built using React, Node.js, Express.js, and MongoDB. The application provides a clean and responsive interface for browsing books and demonstrates full-stack development with a REST API and MongoDB database.
 
-✨ Features
+### ✨ Features
 
 * 📚 Browse available books
 * 🔍 Book listing and information
@@ -14,9 +14,9 @@ A full-stack "Book Store web application" built using React, Node.js, Express.js
 * 🔗 Frontend and backend API integration
 * 📄 About and Contact pages
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-Frontend
+## Frontend
 
 * React.js
 * Vite
@@ -24,20 +24,20 @@ Frontend
 * JavaScript
 * React Icons
 
-Backend
+## Backend
 
 * Node.js
 * Express.js
 * MongoDB
 * Mongoose
 
-Tools
+## Tools
 
 * Git
 * GitHub
 * VS Code
 
-📁 Project Structure
+### 📁 Project Structure
 
 ```text
 bookStoreApp/
@@ -62,20 +62,20 @@ bookStoreApp/
 └── README.md
 ```
 
-🚀 Installation & Setup
+### 🚀 Installation & Setup
 
-1. Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/Vipinvishwakarma74/bookStoreApp.git
 ```
-2. Go to the project directory
+### 2. Go to the project directory
 
 ```bash
 cd bookStoreApp
 ```
 
-3. Setup Backend
+### 3. Setup Backend
 
 ```bash
 cd Backend
@@ -117,7 +117,7 @@ The frontend will run on the URL shown by Vite, usually:
 http://localhost:5173
 ```
 
-🗄️ MongoDB
+### 🗄️ MongoDB
 
 This project uses MongoDB as the database.
 
@@ -146,12 +146,12 @@ You can add them to this README later using:
 
 [BookStore App](https://github.com/Vipinvishwakarma74/bookStoreApp)
 
-👨‍💻 Author
+### 👨‍💻 Author
 
--> Vipin Vishwakarma
+**Vipin Vishwakarma**
 
 GitHub: [@Vipinvishwakarma74](https://github.com/Vipinvishwakarma74)
 
-📄 License
+### 📄 License
 
 This project is created for learning and development purposes.
