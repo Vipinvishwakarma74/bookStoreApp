@@ -7,7 +7,7 @@ import Slider from "react-slick";
 import axios from "axios";
 
 import Cards from "./Cards";
-function Freebook() {
+function Freebook({ search }) {
   const [book, setBook] = useState([]);
   useEffect(() => {
     const getBook = async () => {
@@ -58,11 +58,16 @@ function Freebook() {
       },
     ],
   };
+  const filteredBook = book.filter((item) =>
+    item.name.toLowerCase().includes((search || "").toLowerCase())
+  );
+
   return (
     <>
-      <div className=" max-w-screen-2xl container mx-auto md:px-20 px-4">
+      <div id="books" className=" max-w-screen-2xl container mx-auto md:px-20 px-4">
         <div>
           <h1 className="font-semibold text-xl pb-2">Free Offered Courses</h1>
+
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit.
             Accusantium veritatis alias pariatur ad dolor repudiandae eligendi
@@ -72,8 +77,8 @@ function Freebook() {
 
         <div>
           <Slider {...settings}>
-            {book.map((item) => (
-              <Cards item={item} key={item.id} />
+            {filteredBook.map((item) => (
+              <Cards item={item} key={item._id} />
             ))}
           </Slider>
         </div>
