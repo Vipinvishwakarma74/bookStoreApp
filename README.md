@@ -125,7 +125,7 @@ Make sure MongoDB is running and your connection string is correctly configured 
 
 **Do not upload `.env` to GitHub**, because it may contain private database credentials.
 
-📸 Screenshots
+### 📸 Screenshots
 
 Add screenshots of your application here:
 
@@ -142,7 +142,7 @@ You can add them to this README later using:
 ![Home Page](screenshots/home.png)
 ```
 
-🔗 GitHub Repository
+### 🔗 GitHub Repository
 
 [BookStore App](https://github.com/Vipinvishwakarma74/bookStoreApp)
 
