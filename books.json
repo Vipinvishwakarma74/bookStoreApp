@@ -1,0 +1,142 @@
+[
+    {
+    "name": "Atomic Habits",
+    "price": 299,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c",
+    "title": "A practical guide to building good habits."
+    },
+    {
+    "name": "Rich Dad Poor Dad",
+    "price": 350,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+    "title": "Learn financial literacy and investing."
+    },
+    {
+    "name": "The Alchemist",
+    "price": 250,
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d",
+    "title": "A novel about following your dreams."
+    },
+    {
+    "name": "Think and Grow Rich",
+    "price": 399,
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da",
+    "title": "Success principles by Napoleon Hill."
+    },
+    {
+    "name": "Deep Work",
+    "price": 450,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353",
+    "title": "Improve focus and productivity."
+    },
+    {
+    "name": "Clean Code",
+    "price": 699,
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+    "title": "A handbook of agile software craftsmanship."
+    },
+    {
+    "name": "Introduction to Algorithms",
+    "price": 1200,
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+    "title": "The famous CLRS algorithms textbook."
+    },
+    {
+    "name": "Java Complete Reference",
+    "price": 899,
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d",
+    "title": "Complete guide to Java programming."
+    },
+    {
+    "name": "Eloquent JavaScript",
+    "price": 650,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
+    "title": "Modern introduction to JavaScript."
+    },
+    {
+    "name": "You Don't Know JS",
+    "price": 540,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+    "title": "Deep dive into JavaScript concepts."
+    },
+    {
+    "name": "Python Crash Course",
+    "price": 720,
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935",
+    "title": "A hands-on introduction to Python."
+    },
+    {
+    "name": "Head First Design Patterns",
+    "price": 980,
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1513258496099-48168024aec0",
+    "title": "Learn software design patterns visually."
+    },
+    {
+    "name": "The Pragmatic Programmer",
+    "price": 799,
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "title": "Journey to software mastery."
+    },
+    {
+    "name": "Cracking the Coding Interview",
+    "price": 950,
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f",
+    "title": "Top interview preparation book."
+    },
+    {
+    "name": "Soft Skills",
+    "price": 620,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db",
+    "title": "Career, productivity and personal finance."
+    },
+    {
+    "name": "The Psychology of Money",
+    "price": 499,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a",
+    "title": "Timeless lessons on money management."
+    },
+    {
+    "name": "Ikigai",
+    "price": 320,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d",
+    "title": "Find your purpose in life."
+    },
+    {
+    "name": "Wings of Fire",
+    "price": 299,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6",
+    "title": "Autobiography of Dr. A.P.J. Abdul Kalam."
+    },
+    {
+    "name": "The Lean Startup",
+    "price": 550,
+    "category": "Paid",
+    "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952",
+    "title": "Innovation for startups and entrepreneurs."
+    },
+    {
+    "name": "Start With Why",
+    "price": 430,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66",
+    "title": "Discover the power of purpose."
+    }
+]
